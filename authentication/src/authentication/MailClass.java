@@ -269,7 +269,7 @@ public class MailClass extends javax.swing.JFrame {
         properties.put("mail.smtp.host", "smtp.gmail.com");
         
         String user = from;//"himanshusingh00924@gmail.com";
-        String password = "myavoergfcuauxew";
+        String password = "-";
         
             // session
         Session session = Session.getInstance(properties, new Authenticator(){
