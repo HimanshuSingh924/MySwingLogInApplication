@@ -268,7 +268,7 @@ public class MailClass extends javax.swing.JFrame {
         properties.put("mail.smtp.port", "587");
         properties.put("mail.smtp.host", "smtp.gmail.com");
         
-        String user = from;//"himanshusingh00924@gmail.com";
+        String user = from;
         String password = "-";
         
             // session
