@@ -169,8 +169,7 @@ public class MailClass extends javax.swing.JFrame {
         //String to = "alicekhan7011gmail.com";
         from = "himanshusingh00924@gmail.com";
         //String subject = "hey, Sending email using GMail.";
-        //String text = "Thank You Alice I LOVE JAAN, "+
-        //        "It works Successfully.";
+        //String text = "It works Successfully.";
         
         boolean b;
         b = sendEmail(to,from,subject,text,filePath);
